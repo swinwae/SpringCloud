@@ -1,1 +1,1 @@
-Spring cloud examples.
+Spring cloud examples. UTF-8无BOM
